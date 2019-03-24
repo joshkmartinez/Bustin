@@ -1,0 +1,33 @@
+{
+  "name": "Bustin",
+  "alias": [
+    "bustin",
+    "getbusted",
+    "bustinmakesmefeelgood",
+    "bustinbustinbustin",
+    "makesmefeelgood",
+    "makesmefeelgoodfeelgoodfeelgood",
+    "feelgood",
+    "bustinmakesmefeelgoodfeelgoodfeelgoodfeelgood",
+    "bustinbustinbustinbustinbustinbustinbustinbustinbustin",
+    "bustinbustinbustin",
+    "bustinbustin",
+    "bustinbustinbustinbustin",
+    "bustinbustinbustinbustinbustin",
+    "bustinbustinbustinbustinbustinbustin",
+    "yeahyeahyeah",
+    "feelgoodfeelgoodfeelgood",
+    "bustinmakesmefeel",
+    "ifthereissomethingstrangesleepinginyourbed",
+    "ifthereissomethinstrangesleepininyourbed",
+    "ifthereissomethinstrangesleepinginyourbed",
+    "ifthereissomethingstrangesleepininyourbed",
+    "ifthereisomethingstrangesleepinginyourbed",
+    "somethingstrangesleepinginyourbed"
+  ],
+  "version": 2,
+  "builds": [ { "src": "index.js", "use": "@now/node" } ],
+  "github": {
+    "silent": true
+  }
+}
